@@ -16,7 +16,7 @@ public class BrowserGetter {
      */
 
     public WebDriver getWinChromeDriver() {
-        setProperty("webdriver.chrome.driver", "src/test/resources/browserBinaries/chromedriver.exe");
+        setProperty("webdriver.chrome.driver", "src/test/resources/Drivers/chromedriver.exe");
         WebDriver driver = new ChromeDriver();
         driver.manage().window().maximize();
         return driver;
@@ -27,7 +27,7 @@ public class BrowserGetter {
             throw new RuntimeException("Could not initialize browser due to unknown operating system!");
         }
         if (IS_OS_WINDOWS) {
-            setProperty("webdriver.chrome.driver", "src/test/resources/browserBinaries/chromedriver.exe");
+            setProperty("webdriver.chrome.driver", "src/test/resources/Drivers/chromedriver.exe");
         }
         if (IS_OS_LINUX) {
             setProperty("webdriver.chrome.driver", "src/test/resources/browserBinaries/chromedriver");
