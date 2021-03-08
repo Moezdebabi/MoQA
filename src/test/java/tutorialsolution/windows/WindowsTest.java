@@ -25,7 +25,7 @@ public class WindowsTest {
     public void beforeEach() {
         //initialize the Chrome browser here
         driver = browserGetter.getChromeDriver();
-        //initialize page object class
+        //initialize page object class teststetstmomo
         page = PageFactory.initElements(driver, WindowsPage.class);
         driver.get(new File("src/main/resources/mainPage.html").getAbsolutePath());
     }
