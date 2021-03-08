@@ -22,7 +22,7 @@ public class WindowsTest {
 
     @BeforeEach
     public void beforeEach() {
-        //initialize the Chrome browser here
+        //initialize the Chrome browser here -Mo add
         driver = browserGetter.getChromeDriver();
         //initialize page object class
         page = PageFactory.initElements(driver, WindowsPage.class);
