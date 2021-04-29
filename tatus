@@ -1,0 +1,179 @@
+[33mcommit 2e053d66f8f02b6799186aa256c55275ec1eddc0[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m, [m[1;31morigin/master[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Author: Juser <dbbmz@hotmail.com>
+Date:   Wed Apr 28 12:03:24 2021 -0400
+
+    'firstcommit'
+
+[33mcommit 002ea6c4850111d0ed1fb4097dc9184a12e46838[m
+Author: Juser <dbbmz@hotmail.com>
+Date:   Mon Mar 8 12:36:56 2021 -0500
+
+    Demo RAUTuto moez1
+
+[33mcommit 7dccbff5eb3b6120682dd3dacb067d318ad37fe3[m
+Author: Juser <dbbmz@hotmail.com>
+Date:   Mon Mar 8 12:21:49 2021 -0500
+
+    Demo RAUTuto
+
+[33mcommit 884f7263ae003d05280ba18a82381228cca29ba1[m
+Author: Juser <dbbmz@hotmail.com>
+Date:   Mon Mar 8 12:16:17 2021 -0500
+
+    Demo RAUTuto
+
+[33mcommit ae53421cb16bf0afa0bcb85eca6ef9f1670c3477[m
+Author: Juser <dbbmz@hotmail.com>
+Date:   Mon Mar 8 12:10:20 2021 -0500
+
+    Demo RAUTuto
+
+[33mcommit 98722d39d5103b85ade085bf36f0e9fb50230fe1[m
+Author: iamalittletester <capreoara6@gmail.com>
+Date:   Thu Dec 5 22:07:26 2019 +0200
+
+    TAU course code.
+
+[33mcommit 9d3f9d8658a5a7accfa5600160fcff94bf8228cc[m
+Author: iamalittletester <capreoara6@gmail.com>
+Date:   Wed Jun 19 17:30:02 2019 +0300
+
+    GotoAms demo code + small updates.
+
+[33mcommit 44cf19e6f6ba52df23b3ac716d6e18073b24e47f[m
+Author: iamalittletester <capreoara6@gmail.com>
+Date:   Wed May 29 17:31:48 2019 +0300
+
+    NTD examples.
+
+[33mcommit 732fa866999f155abfaec14207d9d96770cc8fb5[m
+Author: iamalittletester <capreoara6@gmail.com>
+Date:   Sat May 11 12:29:34 2019 +0300
+
+    WebDriverWait examples.
+
+[33mcommit 5fd0d1f5b3faff6d16073a3fc51eaa4d048e5344[m
+Author: iamalittletester <capreoara6@gmail.com>
+Date:   Sat May 4 16:22:10 2019 +0300
+
+    Target version update.
+
+[33mcommit 284319d6816a6d8bf525a476d6bb2a645f1a9188[m
+Author: iamalittletester <capreoara6@gmail.com>
+Date:   Sat May 4 15:23:53 2019 +0300
+
+    Add Waiter class.
+
+[33mcommit d8c9f73facfd63f60c4832726f8d80c61d3ae508[m
+Author: iamalittletester <capreoara6@gmail.com>
+Date:   Tue Apr 2 21:55:09 2019 +0300
+
+    Get browser with custome sizes method.
+
+[33mcommit 00502244638e32099944e9cffc231304ac362f6d[m
+Author: iamalittletester <capreoara6@gmail.com>
+Date:   Mon Apr 1 22:27:08 2019 +0300
+
+    Get browser method.
+
+[33mcommit f0368ffad263e67ca2020287390d1e9c88147fba[m
+Author: iamalittletester <capreoara6@gmail.com>
+Date:   Sat Mar 23 13:32:27 2019 +0200
+
+    User prompts tests. Enable Firefox.
+
+[33mcommit 17964ef9a5672e9262c706b0b59cbdc775a713a8[m
+Author: iamalittletester <capreoara6@gmail.com>
+Date:   Sat Mar 23 11:05:29 2019 +0200
+
+    Package name refactoring.
+
+[33mcommit 52360212c19b8f2db779b4bf318c376fa1e5eead[m
+Author: iamalittletester <capreoara6@gmail.com>
+Date:   Thu Mar 21 21:46:28 2019 +0200
+
+    Open page tests.
+
+[33mcommit 7bd638e84ec2e18dea5ee2a5c9b872c0551d6095[m
+Author: iamalittletester <capreoara6@gmail.com>
+Date:   Thu Mar 21 20:28:24 2019 +0200
+
+    Open page tests.
+
+[33mcommit 54b6a0bf68ff4b56687a624e46a9cbf55faca8a7[m
+Author: iamalittletester <capreoara6@gmail.com>
+Date:   Sun Mar 17 19:18:37 2019 +0200
+
+    Working with window/tabs tests.
+
+[33mcommit d5d87d7bcb979270c877b2a1cb4a0ad1fb6154ac[m
+Author: iamalittletester <capreoara6@gmail.com>
+Date:   Thu Mar 7 19:18:02 2019 +0200
+
+    Navigation tests.
+
+[33mcommit 481f912cb3b3b4f1fa4d41e30550248b4c0adc1a[m
+Author: iamalittletester <capreoara6@gmail.com>
+Date:   Wed Mar 6 18:17:26 2019 +0200
+
+    Working with cookies tests.
+
+[33mcommit 71ba5af42d039f33769ac7c9368c7029d5b0ae3a[m
+Author: iamalittletester <capreoara6@gmail.com>
+Date:   Sun Mar 3 15:31:26 2019 +0200
+
+    getCssValue() tests.
+
+[33mcommit b656162bfa784d6384332996328a542433a93e8f[m
+Author: iamalittletester <capreoara6@gmail.com>
+Date:   Sat Mar 2 21:58:49 2019 +0200
+
+    getText() tests.
+
+[33mcommit 836706129075851fad59950520729a4db08ccb07[m
+Author: iamalittletester <capreoara6@gmail.com>
+Date:   Thu Feb 28 20:14:23 2019 +0200
+
+    Clear tests.
+
+[33mcommit 4613b460f8a06a5c0fb54f79e94c4dc0b0fd71ef[m
+Author: iamalittletester <capreoara6@gmail.com>
+Date:   Thu Feb 28 19:38:33 2019 +0200
+
+    SendKeys tests.
+
+[33mcommit 28efedf6b8a57c4dd69e31f2c8a8320cc7c69dd1[m
+Author: iamalittletester <capreoara6@gmail.com>
+Date:   Wed Feb 27 18:17:25 2019 +0200
+
+    Click tests.
+
+[33mcommit b29210ef0777f60245b5448a5b2f86a096fe4f7f[m
+Author: iamalittletester <capreoara6@gmail.com>
+Date:   Tue Feb 26 13:06:03 2019 +0200
+
+    Dropdown/select tests.
+
+[33mcommit 6c352e17889b11e62c616b5a18cd46ecad15344b[m
+Author: iamalittletester <capreoara6@gmail.com>
+Date:   Wed Feb 13 21:04:58 2019 +0200
+
+    getAttribute()
+
+[33mcommit 2236065c03495765100b923f1daffef5766c72fe[m
+Author: iamalittletester <capreoara6@gmail.com>
+Date:   Sun Feb 3 12:44:08 2019 +0200
+
+    Iframes tests.
+
+[33mcommit 0c7746e53175170ef1c4ee83c3ba1964d2796b47[m
+Author: iamalittletester <capreoara6@gmail.com>
+Date:   Thu Jan 24 13:59:01 2019 +0200
+
+    Initial commit. CSS selectors commit
+
+[33mcommit a7328d05266a54a703c062b0db4306ec1306fdde[m
+Author: iamalittletester <capreoara6@gmail.com>
+Date:   Thu Jan 24 13:21:29 2019 +0200
+
+    Initial commit

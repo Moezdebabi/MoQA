@@ -16,6 +16,7 @@ import static org.junit.jupiter.api.TestInstance.Lifecycle.PER_CLASS;
  * Javadoc
  */
 //Moez comment
+    //2nd comment
 //todo
 @TestInstance(PER_CLASS)
 public class SeleniumTest {
